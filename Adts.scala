@@ -74,7 +74,7 @@ object Adts {
         println("Task5:")
         def func1(str:String):Int=str(0)/0
         def func2(str:String):Int=str(0)*2
-        println(testGoodOldJava(func1,"lala"))
-        println(testGoodOldJava(func2,"lala"))
+        println(testGoodOldJava(func1,"nana"))
+        println(testGoodOldJava(func2,"nana"))
       }
 }
